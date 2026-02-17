@@ -1,0 +1,6 @@
+ultralytics
+easyocr
+gradio
+opencv-python-headless
+pandas
+numpy
